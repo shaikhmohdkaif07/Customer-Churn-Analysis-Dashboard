@@ -18,13 +18,13 @@ The Power BI report contains three pages:
 
 
 ### Executive Overview
-![Executive Overview](screenshot\executive_summary.png)
+![Executive Overview](screenshot/executive_summary.png)
 
 ### Churn Drivers
-![Churn Drivers](screenshot\churn_drivers.png)
+![Churn Drivers](screenshot/churn_drivers.png)
 
 ### Customer Risk & Retention Opportunities
-![Customer Risk & Retention Opportunities](screenshot\risk_retention.png)
+![Customer Risk & Retention Opportunities](screenshot/risk_retention.png)
 
 ## Dataset
 
